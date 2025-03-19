@@ -70,5 +70,4 @@ python token_checker.py --github YOUR_GITHUB_TOKEN --gitlab YOUR_GITLAB_TOKEN
     "name": "GitLab User",
     "email": "user@example.com"
 }
-```  
-# git_tokenchecker
+``` 
